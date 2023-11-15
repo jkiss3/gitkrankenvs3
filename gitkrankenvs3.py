@@ -9,14 +9,3 @@ class Dog:
 
 dog1 = Dog('kuvasz','Dino',29,"waff-waff")
 dog1.ugat()
-
-def szamok(szam1,szam2):
-    return szam1+szam2
-
-osszeg = szamok(3,2)
-print(osszeg
-      
-      )
-
-
-
